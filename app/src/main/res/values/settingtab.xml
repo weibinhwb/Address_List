@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="settingtab">
+        <item></item>
+        <item>select</item>
+        <item>delete</item>
+        <item>move contacts</item>
+        <item>manage contacts</item>
+        <item>help</item>
+    </array>
+</resources>
